@@ -14,9 +14,9 @@
 // console.log(`${Number(c)+1} - ${produtos[c]}`)
 // }
 
-// produtos.forEach(function(produto, i){
-//     console.log(i+1, produto);
-// })
+produtos.forEach(function(produto, i){
+    console.log(i+1, produto);
+})
 
 //MÉTODOS DE MANIPULAÇÃO DE VETORES
 
